@@ -1,0 +1,3 @@
+lolkey = https://api.lolhuman.xyz/
+var zekais = http://zekais-api.herokuapp.com/
+var xziyApi = https://ziy.herokuapp.com/
